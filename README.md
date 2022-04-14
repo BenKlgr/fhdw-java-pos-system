@@ -2,6 +2,15 @@
 
 More description following
 
+## Planned Features
+
+- Worker login / shift system
+- Products / items
+- "Payment" - card or cash
+- Coupons and discounts
+- History
+- Print Receipt
+
 ## Authors
 
 - Ben Klingeler [@benKlgr](https://www.github.com/benKlgr)
